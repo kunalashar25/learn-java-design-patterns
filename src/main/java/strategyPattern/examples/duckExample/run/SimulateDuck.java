@@ -34,5 +34,4 @@ public class SimulateDuck {
         rubberDuck.setQuackBehavior(new Quack());
         rubberDuck.performQuack();
     }
-
 }
