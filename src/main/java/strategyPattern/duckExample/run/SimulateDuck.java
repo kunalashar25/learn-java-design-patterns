@@ -1,9 +1,9 @@
-package strategyPattern.examples.duckExample.run;
+package strategyPattern.duckExample.run;
 
-import strategyPattern.examples.duckExample.duckCapabilities.FlyRocket;
-import strategyPattern.examples.duckExample.duckCapabilities.Quack;
-import strategyPattern.examples.duckExample.duckTypes.DecoyDuck;
-import strategyPattern.examples.duckExample.duckTypes.RubberDuck;
+import strategyPattern.duckExample.duckCapabilities.FlyRocket;
+import strategyPattern.duckExample.duckCapabilities.Quack;
+import strategyPattern.duckExample.duckTypes.DecoyDuck;
+import strategyPattern.duckExample.duckTypes.RubberDuck;
 
 public class SimulateDuck {
 

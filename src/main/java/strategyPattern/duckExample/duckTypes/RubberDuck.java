@@ -1,8 +1,8 @@
-package strategyPattern.examples.duckExample.duckTypes;
+package strategyPattern.duckExample.duckTypes;
 
-import strategyPattern.examples.duckExample.duckCapabilities.FlyNoWay;
-import strategyPattern.examples.duckExample.duckCapabilities.Squeak;
-import strategyPattern.examples.duckExample.run.Duck;
+import strategyPattern.duckExample.duckCapabilities.FlyNoWay;
+import strategyPattern.duckExample.duckCapabilities.Squeak;
+import strategyPattern.duckExample.run.Duck;
 
 public class RubberDuck extends Duck {
 

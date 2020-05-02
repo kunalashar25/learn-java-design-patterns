@@ -1,6 +1,6 @@
-package strategyPattern.examples.duckExample.duckTypes;
+package strategyPattern.duckExample.duckTypes;
 
-import strategyPattern.examples.duckExample.run.Duck;
+import strategyPattern.duckExample.run.Duck;
 
 public class MallardDuck extends Duck {
 
